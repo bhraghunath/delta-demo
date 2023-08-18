@@ -6,3 +6,6 @@ This is a demo for Git and Git Hub.
 
  # student
  We all
+
+ # edit 
+ now i m trying this 
